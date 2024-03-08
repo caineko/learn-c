@@ -22,5 +22,6 @@ int main()
 	{
 		printf("%d ", B[i]);
 	}
+//交换两数组的内容并打印
 	return 0;
 }
